@@ -1,0 +1,1 @@
+input layer size 784hidden layer size 20output layer size 10
